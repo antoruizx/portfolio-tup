@@ -1,7 +1,7 @@
 import React from 'react';
 
 const SoftSkills = () => {
-  const skills = ["Responsabilidad", "Trabajo en equipo", "Comunicación"];
+  const skills = ["Responsabilidad", "Trabajo en equipo", "Comunicación", "Pensamiento lógico", "Resolución de problemas", "Trabajo en equipo", "Comunicación efectiva", "Adaptabilidad"];
 
   return (
     <section id="softskills">
